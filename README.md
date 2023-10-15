@@ -53,10 +53,12 @@ rm -r $HOME/perpetua-alacritty
         <img alt="A screenshot of the Alacritty terminal emulator with the Perpetua theme applied in light ambience mode" src="./assets/screenshot-light.png">
         <figcaption>Perpetua light ambience on Alacritty.</figcaption>
     </figure>
+    <br>&nbsp;
     <figure>
         <img alt="A screenshot of the Alacritty terminal emulator running btop, with the Perpetua theme applied in light ambience mode" src="./assets/screenshot-btop-light.png">
         <figcaption>Perpetua light ambience on Alacritty running <code>btop</code>.</figcaption>
     </figure>
+    <br>&nbsp;
     <figure>
         <img alt="A screenshot of the Alacritty terminal emulator running ls, with the Perpetua theme applied in light ambience mode" src="./assets/screenshot-ls-light.png">
         <figcaption>Perpetua light ambience on Alacritty running <code>ls</code>.</figcaption>
@@ -69,17 +71,19 @@ rm -r $HOME/perpetua-alacritty
         <img alt="A screenshot of the Alacritty terminal emulator with the Perpetua theme applied in dark ambience mode" src="./assets/screenshot-dark.png">
         <figcaption>Perpetua dark ambience on Alacritty.</figcaption>
     </figure>
+    <br>&nbsp;
     <figure>
         <img alt="A screenshot of the Alacritty terminal emulator running btop, with the Perpetua theme applied in dark ambience mode" src="./assets/screenshot-btop-dark.png">
         <figcaption>Perpetua dark ambience on Alacritty running <code>btop</code>.</figcaption>
     </figure>
+    <br>&nbsp;
     <figure>
         <img alt="A screenshot of the Alacritty terminal emulator running ls, with the Perpetua theme applied in dark ambience mode" src="./assets/screenshot-ls-dark.png">
         <figcaption>Perpetua dark ambience on Alacritty running <code>ls</code>.</figcaption>
     </figure>
 </details>
 
-<br>
+<br>&nbsp;
 <hr>
 <p align="center">
     <small>© Copyright 2023-present, The Perpetua Authors.</small>
