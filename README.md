@@ -7,9 +7,6 @@
     <h1 align="center">Perpetua for <a href="https://github.com/alacritty/alacritty">Alacritty</a></h1>
 </p>
 
-> [!WARNING]
-> The project is under active development. Things are subject to change.
-
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/screenshot-dark.png">
@@ -17,6 +14,9 @@
         <img alt="A screenshot of the Alacritty terminal emulator with the Perpetua theme applied" width="600" src="./assets/screenshot-light.png">
     </picture>
 </p>
+
+> [!WARNING]
+> The project is under active development. Things are subject to change.
 
 ## Usage
 
