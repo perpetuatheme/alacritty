@@ -1,0 +1,57 @@
+[colors.primary]
+foreground = "{{ .Text0.Hex }}"
+background = "{{ .Base0.Hex }}"
+dim_foreground = "{{ .Text2.Hex }}"
+bright_foreground = "{{ .Text0.Hex }}"
+
+[colors.cursor]
+text = "{{ .Base0.Hex }}"
+cursor = "{{ .Text0.Hex }}"
+
+[colors.vi_mode_cursor]
+text = "{{ .Base0.Hex }}"
+cursor = "{{ .Violet.Hex }}"
+
+[colors.search.matches]
+foreground = "{{ .Text0.Hex }}"
+background = "{{ .YellowBack.Hex }}"
+
+[colors.search.focused_match]
+foreground = "{{ .Text0.Hex }}"
+background = "{{ .TurquoiseBack.Hex }}"
+
+[colors.hints.start]
+foreground = "{{ .Base0.Hex }}"
+background = "{{ .Yellow.Hex }}"
+
+[colors.hints.end]
+foreground = "{{ .Base0.Hex }}"
+background = "{{ .Text1.Hex }}"
+
+[colors.footer_bar]
+foreground = "{{ .Base0.Hex }}"
+background = "{{ .Text0.Hex }}"
+
+[colors.selection]
+text = "{{ .Text0.Hex }}"
+background = "{{ .Base4.Hex }}"
+
+[colors.normal]
+black = "{{ .Base2.Hex }}"
+red = "{{ .Red.Hex }}"
+green = "{{ .Green.Hex }}"
+yellow = "{{ .Yellow.Hex }}"
+blue = "{{ .Blue.Hex }}"
+magenta = "{{ .Pink.Hex }}"
+cyan = "{{ .Cyan.Hex }}"
+white = "{{ .Text0.Hex }}"
+
+[colors.bright]
+black = "{{ .Base3.Hex }}"
+red = "{{ .Red.Hex }}"
+green = "{{ .Green.Hex }}"
+yellow = "{{ .Yellow.Hex }}"
+blue = "{{ .Blue.Hex }}"
+magenta = "{{ .Pink.Hex }}"
+cyan = "{{ .Cyan.Hex }}"
+white = "{{ .Text1.Hex }}"
